@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_854636_upset_vis.user" name="x_854636_upset_vis.user">29ccd2f4831212103a3fc7e0deaad3d8</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-03 16:20:31</sys_created_on>
+        <sys_id>e1ccd2f4831212103a3fc7e0deaad3db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>29ccd2f4831212103a3fc7e0deaad3d8</sys_name>
+        <sys_package display_value="Update Set Visualizer" source="x_854636_upset_vis">8ebc9eb4831212103a3fc7e0deaad3d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Update Set Visualizer">8ebc9eb4831212103a3fc7e0deaad3d9</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e1ccd2f4831212103a3fc7e0deaad3db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-03 16:20:31</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
